@@ -1,0 +1,19 @@
+BODY {color:blue }
+
+P {color:blue; 
+   font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+  }
+
+  div {
+  background-image: url("https://www.fondosalpha.com.ar/wps/wcm/connect/0fb3ed004e0b8d98a63aeea7a2525224/6.jpg?MOD=AJPERES");
+}
+   
